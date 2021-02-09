@@ -1,0 +1,19 @@
+body{
+    background: gray;
+}
+#tit1{
+    margin-left:200px;
+    margin-right: 200px;
+    background: blue;
+    text-align: center;
+    font-size: 40px;
+}
+#hora{
+    background: yellow;
+    margin-left:200px;
+    margin-right: 200px;
+}
+#timee{
+    text-align: center;
+    font-size: 30px;
+}
